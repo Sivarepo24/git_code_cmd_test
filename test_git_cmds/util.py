@@ -10,3 +10,9 @@ def sub ():
     b = 10
     c = a + b
     print("subtraction result of c:", c)
+
+def mul ():
+    a = 5
+    b = 10
+    c = a * b
+    print("multiply result of c:", c)
