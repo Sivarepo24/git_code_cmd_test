@@ -3,4 +3,10 @@ def add ():
     a = 5
     b = 10
     c = a + b
-    print("result of c:", c)
+    print("addition result of c:", c)
+
+def sub ():
+    a = 5
+    b = 10
+    c = a + b
+    print("subtraction result of c:", c)
